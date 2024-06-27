@@ -7,3 +7,7 @@ Mise en évidence des appels aux méthodes et aux propriétés de This
 ## Phase 2
 
 Utilisation du mot clé Static
+
+## Phase 3
+
+Exploitation des méthodes
